@@ -1,0 +1,10 @@
+.layer {
+	width: 480px;
+	height: 480px;
+	transform: rotateX(60deg) rotateY(0deg) rotateZ(-45deg);
+  border: 1px solid #888;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
